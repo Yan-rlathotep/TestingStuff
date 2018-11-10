@@ -5,6 +5,8 @@ from cards import *
 from Events import *
 plt.rcParams['image.cmap'] = 'gray'
 
+#Wow
+
 ressources=['UM','fossile','électricité','nourriture','déchets','pollution']
 jauges=['Economique','Environnemental','Social']
 cols_mod = ['#8321d2','#1ca200','#af1d1d']
